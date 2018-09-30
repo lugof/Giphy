@@ -65,7 +65,7 @@ $(document).ready(function() {
 
       // Constructing a queryURL using the animal name
       var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
-        animal + "&api_key=dc6zaTOxFJmzC&limit=10_s";
+        animal + "&api_key=oY9RCj5rlWcJY9J1bLake3iFIeGIgsi2&limit=10_s";
 
       // Performing an AJAX request with the queryURL
       $.ajax({
@@ -195,7 +195,7 @@ $(document).ready(function() {
          $(document).on('click', ".mybtns2", function() {
             var movie=$(this).attr("data-movie");
             var queryURL = "https://www.omdbapi.com/?t=" +
-            movie + "&y=&plot=short&apikey=trilogy";
+            movie + "&y=&plot=short&apikey=b79fed7d";
         
             $.ajax({
                 url: queryURL,
