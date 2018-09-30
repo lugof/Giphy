@@ -54,11 +54,34 @@ p{
 @media screen and (max-width: 992px) {
     .theanimals, .themovies, .thefavorites, .gifs-appear-here, .imdb-appear-here, .favorites {
       width: 30%;
-      word-wrap:break-word;
+      font-size: 10px;
+
+
     }
     .container{
         margin-left: 10px;
         margin-right: 10px;
     }
     
+    .card-title{
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+    .btn3 , .btn4{
+      max-width: 100%;
+      max-height: 100px;
+    }
+
+    @media screen and (max-width: 426px) {
+        .theanimals, .themovies, .thefavorites, .gifs-appear-here, .imdb-appear-here, .favorites {
+          width: 30%;
+          font-size: 7px;
+          padding-bottom: 0px;
+          padding-top:0px;
+          padding-left: 0px;
+          padding-right:0px;
+    
+    
+        }
+
   }
