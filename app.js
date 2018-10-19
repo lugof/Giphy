@@ -1,3 +1,7 @@
+
+   
+    //check if that movie is already on the array
+    
     
 $(document).ready(function() {
 
@@ -22,12 +26,8 @@ $(document).ready(function() {
                     repeated=true;
                 }
         }
-    }
-    //check if that movie is already on the array
-    
-
    
-
+    }
 
 
 

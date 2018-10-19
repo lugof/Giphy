@@ -18,6 +18,6 @@
 
 
 
-##Have fun!
+##Take a look at the website: [My Giphy website ](https://lugof.github.io/Giphy/).
 
 
