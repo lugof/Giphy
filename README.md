@@ -25,13 +25,13 @@
 
 * Technical approach:
 
-    1.- Acquire knowledge on how to call the api request on each giphy and omdb
-    2.- Create backbone html
-    3.- Create the grid
-    4.- Incorporate pre-made buttons on an array and show them as soon as the website opens
-    5.- Functions to let the user create new buttons
-    6.- Add favorites through local/session storage as required.
-    7.- Polish details
+    1. Acquire knowledge on how to call the api request on each giphy and omdb
+    2. Create backbone html
+    3. Create the grid
+    4. Incorporate pre-made buttons on an array and show them as soon as the website opens
+    5. Functions to let the user create new buttons
+    6. Add favorites through local/session storage as required.
+    7. Polish details
 
 
 ## Take a look at the website: [My Giphy website ](https://lugof.github.io/Giphy/).
